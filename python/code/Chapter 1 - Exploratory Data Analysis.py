@@ -330,5 +330,5 @@ g.map(hexbin, 'SqFtTotLiving', 'TaxAssessedValue',
 g.set_axis_labels('Finished Square Feet', 'Tax Assessed Value')
 g.set_titles('Zip code {col_name:.0f}')
 
-plt.tight_layout()
-plt.show()
+# plt.tight_layout()
+# plt.show()
